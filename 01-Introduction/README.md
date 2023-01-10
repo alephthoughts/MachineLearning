@@ -28,7 +28,7 @@ where, $X$ is the feature matrix, $y$ is the target vector and $g$ is the learnt
 # 1.4 CRISP-DM ML Process
 - CRoss Industry Standard Process for Data Mining was developed by IBM in the early 90s. The process steps are:
 
-![]("./images/Pasted image 20220907205647.png")
+![CRISP-DM](images/"Pasted image 20220907205647.png")
 	1. __Business Understanding:__ 
 		- Understand the business problem and assess how to solve it.
 		- Important question to ask here is - do we need ML?
